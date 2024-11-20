@@ -50,4 +50,3 @@ jobs:
       run: |
         docker tag my-flask-app your-docker-username/my-flask-app:latest
         docker push your-docker-username/my-flask-app:latest
-
